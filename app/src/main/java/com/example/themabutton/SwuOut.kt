@@ -19,6 +19,7 @@ class SwuOut: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_swuout)
+
         btnEat = findViewById(R.id.btnEat)
         btnDrink = findViewById(R.id.btnDrink)
         btnPlay = findViewById(R.id.btnPlay)

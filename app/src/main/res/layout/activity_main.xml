@@ -18,7 +18,6 @@
             android:id="@+id/btnIn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#F44336"
             android:text="서울여자대학교"
             android:padding="10dp"
             android:textSize="30sp" />
@@ -32,10 +31,8 @@
             android:id="@+id/btnOut"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#FAF9F9"
             android:text="서울여자대학교 주변"
             android:padding="10dp"
-            android:textColor="#F44336"
             android:textSize="30sp" />
     </LinearLayout>
 

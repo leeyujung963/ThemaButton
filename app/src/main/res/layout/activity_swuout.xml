@@ -21,11 +21,13 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <ImageView
             android:id="@+id/cat2imageView"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            app:srcCompat="@drawable/cat2" />
+            app:srcCompat="@drawable/cat"/>
+
     </LinearLayout>
 
     <LinearLayout
